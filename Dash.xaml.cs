@@ -26,9 +26,6 @@ namespace WPF_APP
             userLogged.Content = user;
         }
 
-        private void mouseOverEffect(object sender, DependencyPropertyChangedEventArgs e)
-        {
-            menu_filieres.Background = Brushes.Blue;
-        }
+
     }
 }

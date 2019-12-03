@@ -28,7 +28,7 @@
             </Button.BorderBrush>
         </Button>
         <Label x:Name="userLogged" Content="Username" HorizontalAlignment="Left" Margin="58,95,0,0" VerticalAlignment="Top" FontWeight="Bold" Foreground="White"/>
-        <DataGrid HorizontalAlignment="Left" Height="267" Margin="217,71,0,0" VerticalAlignment="Top" Width="554"/>
+        <DataGrid HorizontalAlignment="Left" Height="267" Margin="217,122.652,0,0" VerticalAlignment="Top" Width="554"/>
         <ComboBox HorizontalAlignment="Left" Margin="217,34,0,0" VerticalAlignment="Top" Width="142">
             <Button Content="-- choisir --"/>
         </ComboBox>
