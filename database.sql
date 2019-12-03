@@ -1,5 +1,5 @@
-create database gestion_etudiant;
-USE gestion_etudiant
+create database gestion_etudiant_wpf;
+USE gestion_etudiant_wpf
 
 create table filiere
 (
@@ -9,13 +9,13 @@ create table filiere
 )
 
 
-create table Etudiant
+create table etudiant
 (
 	id_etudiant integer primary key identity(1,1),
 	cne varchar(10) unique,
 	nom varchar(25),
 	prenom varchar(25),
-	picture(50),
+	picture varchar(50),
 	sexe char CHECK (sexe in ('F','M')),
 	date_naissance date,
 	tele varchar(15),

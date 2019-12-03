@@ -14,3 +14,13 @@ D:\4thCycle\ASP-C#\WPF_APP\obj\Debug\dash.g.cs
 D:\4thCycle\ASP-C#\WPF_APP\obj\Debug\dash.baml
 D:\4thCycle\ASP-C#\WPF_APP\obj\Debug\login.g.cs
 D:\4thCycle\ASP-C#\WPF_APP\obj\Debug\login.baml
+C:\Users\aser\Documents\GitHub\gestion_etudiant_wpf\obj\Debug\WPF_APP.csprojAssemblyReference.cache
+C:\Users\aser\Documents\GitHub\gestion_etudiant_wpf\obj\Debug\Dash.g.cs
+C:\Users\aser\Documents\GitHub\gestion_etudiant_wpf\obj\Debug\login.g.cs
+C:\Users\aser\Documents\GitHub\gestion_etudiant_wpf\obj\Debug\App.g.cs
+C:\Users\aser\Documents\GitHub\gestion_etudiant_wpf\obj\Debug\WPF_APP_MarkupCompile.cache
+C:\Users\aser\Documents\GitHub\gestion_etudiant_wpf\obj\Debug\WPF_APP_MarkupCompile.lref
+C:\Users\aser\Documents\GitHub\gestion_etudiant_wpf\obj\Debug\Dash.baml
+C:\Users\aser\Documents\GitHub\gestion_etudiant_wpf\obj\Debug\login.baml
+C:\Users\aser\Documents\GitHub\gestion_etudiant_wpf\obj\Debug\WPF_APP.g.resources
+C:\Users\aser\Documents\GitHub\gestion_etudiant_wpf\obj\Debug\WPF_APP.pdb
