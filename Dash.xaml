@@ -1,0 +1,36 @@
+﻿<Window x:Class="WPF_APP.dash"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_APP"
+        mc:Ignorable="d" Height="450" Width="800" Title="Dashboard">
+    <Grid>
+        <Rectangle Fill="#FF4F97FF" HorizontalAlignment="Left" Height="420" VerticalAlignment="Top" Width="190" IsEnabled="False">
+            <Rectangle.Effect>
+                <DropShadowEffect Opacity="0.2" BlurRadius="8"/>
+            </Rectangle.Effect>
+        </Rectangle>
+        <Image Margin="58,24,667.6,328" Source="585e4beacb11b227491c3399.png" Stretch="Fill" Opacity="0.585"/>
+        <Button x:Name="menu_students" Content="Gestion des etudiants" HorizontalAlignment="Left" Margin="0,145,0,0" VerticalAlignment="Top" Width="190" Height="34" Background="#FF3873C8" Foreground="White" BorderThickness="1,1,0,1" IsMouseDirectlyOverChanged="mouseOverEffect">
+            <Button.BorderBrush>
+                <SolidColorBrush Color="White" Opacity="0.205"/>
+            </Button.BorderBrush>
+        </Button>
+        <Button x:Name="menu_filieres" Content="Gestion des filieres" HorizontalAlignment="Left" Margin="0,178,0,0" VerticalAlignment="Top" Width="190" Height="34" Background="#FF4888E4" Foreground="White">
+            <Button.BorderBrush>
+                <SolidColorBrush Color="White" Opacity="0.315"/>
+            </Button.BorderBrush>
+        </Button>
+        <Button x:Name="menu_statistique" Content="Statistique" HorizontalAlignment="Left" Margin="0,210,0,0" VerticalAlignment="Top" Width="190" Height="34" Background="#FF4888E4" Foreground="White">
+            <Button.BorderBrush>
+                <SolidColorBrush Color="White" Opacity="0.2"/>
+            </Button.BorderBrush>
+        </Button>
+        <Label x:Name="userLogged" Content="Username" HorizontalAlignment="Left" Margin="58,95,0,0" VerticalAlignment="Top" FontWeight="Bold" Foreground="White"/>
+        <DataGrid HorizontalAlignment="Left" Height="267" Margin="217,71,0,0" VerticalAlignment="Top" Width="554"/>
+        <ComboBox HorizontalAlignment="Left" Margin="217,34,0,0" VerticalAlignment="Top" Width="142">
+            <Button Content="-- choisir --"/>
+        </ComboBox>
+    </Grid>
+</Window>

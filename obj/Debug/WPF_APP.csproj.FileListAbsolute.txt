@@ -1,0 +1,16 @@
+D:\4thCycle\ASP-C#\WPF_APP\bin\Debug\WPF_APP.exe.config
+D:\4thCycle\ASP-C#\WPF_APP\bin\Debug\WPF_APP.exe
+D:\4thCycle\ASP-C#\WPF_APP\bin\Debug\WPF_APP.pdb
+D:\4thCycle\ASP-C#\WPF_APP\obj\Debug\WPF_APP.csprojAssemblyReference.cache
+D:\4thCycle\ASP-C#\WPF_APP\obj\Debug\App.g.cs
+D:\4thCycle\ASP-C#\WPF_APP\obj\Debug\WPF_APP_MarkupCompile.cache
+D:\4thCycle\ASP-C#\WPF_APP\obj\Debug\WPF_APP_MarkupCompile.lref
+D:\4thCycle\ASP-C#\WPF_APP\obj\Debug\WPF_APP.g.resources
+D:\4thCycle\ASP-C#\WPF_APP\obj\Debug\WPF_APP.Properties.Resources.resources
+D:\4thCycle\ASP-C#\WPF_APP\obj\Debug\WPF_APP.csproj.GenerateResource.cache
+D:\4thCycle\ASP-C#\WPF_APP\obj\Debug\WPF_APP.exe
+D:\4thCycle\ASP-C#\WPF_APP\obj\Debug\WPF_APP.pdb
+D:\4thCycle\ASP-C#\WPF_APP\obj\Debug\dash.g.cs
+D:\4thCycle\ASP-C#\WPF_APP\obj\Debug\dash.baml
+D:\4thCycle\ASP-C#\WPF_APP\obj\Debug\login.g.cs
+D:\4thCycle\ASP-C#\WPF_APP\obj\Debug\login.baml
